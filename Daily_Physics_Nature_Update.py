@@ -49,7 +49,7 @@ for a in topics:
 
 ####--Login details--####
 SENDER = "<sending mail address>"
-PASSWORD = "<sender password>" #open("user_details.txt", "r")
+PASSWORD = "<sender password>"
 
 ####--Body of the mail--####
 body = ""
